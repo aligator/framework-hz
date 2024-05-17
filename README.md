@@ -1,4 +1,5 @@
-# hz.sh
+# framework-hz
+
 Description
 hz.sh is a bash script that changes the refresh rate of the laptop screen on a KDE environment. It uses kscreen-doctor to interact with the KDE screen settings.
 
